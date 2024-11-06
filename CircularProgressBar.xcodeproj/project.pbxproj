@@ -11,6 +11,8 @@
 		30250F3D2CDA042E00E2F2EA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30250F3C2CDA042E00E2F2EA /* ContentView.swift */; };
 		30250F3F2CDA042F00E2F2EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30250F3E2CDA042F00E2F2EA /* Assets.xcassets */; };
 		30250F422CDA042F00E2F2EA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30250F412CDA042F00E2F2EA /* Preview Assets.xcassets */; };
+		3040E5412CDB43E10053C3AC /* DarkCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3040E5402CDB43E10053C3AC /* DarkCircle.swift */; };
+		3040E5432CDB543B0053C3AC /* DashCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3040E5422CDB543B0053C3AC /* DashCircle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		30250F3C2CDA042E00E2F2EA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		30250F3E2CDA042F00E2F2EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		30250F412CDA042F00E2F2EA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3040E5402CDB43E10053C3AC /* DarkCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkCircle.swift; sourceTree = "<group>"; };
+		3040E5422CDB543B0053C3AC /* DashCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashCircle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				30250F3C2CDA042E00E2F2EA /* ContentView.swift */,
 				30250F3E2CDA042F00E2F2EA /* Assets.xcassets */,
 				30250F402CDA042F00E2F2EA /* Preview Content */,
+				3040E5402CDB43E10053C3AC /* DarkCircle.swift */,
+				3040E5422CDB543B0053C3AC /* DashCircle.swift */,
 			);
 			path = CircularProgressBar;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3040E5412CDB43E10053C3AC /* DarkCircle.swift in Sources */,
+				3040E5432CDB543B0053C3AC /* DashCircle.swift in Sources */,
 				30250F3D2CDA042E00E2F2EA /* ContentView.swift in Sources */,
 				30250F3B2CDA042E00E2F2EA /* CircularProgressBarApp.swift in Sources */,
 			);
